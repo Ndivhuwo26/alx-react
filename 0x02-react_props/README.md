@@ -1,0 +1,2 @@
+React Props: Props, short for "properties," are a fundamental concept in React that allow components to receive data and configuration from their parent components. They enable the transfer of information, such as strings, numbers, objects, or functions, making components reusable and dynamic. Props are passed to components as attributes and can be accessed within the component using this.props in class components or simply props in functional components. By using props, developers can create flexible and maintainable user interfaces.
+
